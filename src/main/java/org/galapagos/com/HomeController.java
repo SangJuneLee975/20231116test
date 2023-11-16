@@ -28,6 +28,7 @@ public class HomeController {
 		
 		model.addAttribute("serverTime", formattedDate );
 		//git test
+		//gjdsaiofadsoi
 		return "home";
 	}
 	
